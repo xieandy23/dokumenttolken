@@ -1,0 +1,12 @@
+backend/__pycache__/
+backend/*.pyc
+
+frontend/node_modules/
+
+.env
+*.log
+
+venv
+
+to-do.txt
+
